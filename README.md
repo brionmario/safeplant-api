@@ -1,8 +1,10 @@
 <p align="center">
+    <img style="display:block;text-align:center" src="./docs/readme-resources/Logo.png" alt="logo" width="100" />
+    <br/>
     <h1 align="center">RESTful API</h1>
     <p align="center" style="font-size: 1.2rem;">The Restful API used for the SAFE PLANT analytics portal</p>
-    <p align="center" style="font-size: 1rem; color: red">Built with LOOPBACK FRAMEWORK</p>
 </p>
+<br/>
 
 This project was developed on top of the [LoopBack](http://loopback.io) framework and uses a [MongoDB](https://www.mongodb.com/") database hosted on [MLab](https://mlab.com/).
 
@@ -29,11 +31,11 @@ npm start
 
 # Built With
 
-<a href="https://loopback.io/"><img src="./docs/readme-resources/loopback.svg" alt="Loopback" height="30" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img src="./docs/readme-resources/node-1.svg" alt="NodeJS" height="30" /></a>&nbsp;&nbsp;
-<a href="https://expressjs.com/"><img src="./docs/readme-resources/expressjs.svg" alt="ExpressJS" height="30" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="./docs/readme-resources/mongodb.svg" alt="MongoDB" height="30" /></a>&nbsp;&nbsp;
-<a href="https://mlab.com/"><img src="./docs/readme-resources/mlab.svg" alt="MLab" height="30" /></a>&nbsp;&nbsp;
+<a href="https://loopback.io/"><img src="./docs/readme-resources/technologies/loopback.svg" alt="Loopback" height="30" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/"><img src="./docs/readme-resources/technologies/node-1.svg" alt="NodeJS" height="30" /></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img src="./docs/readme-resources/technologies/expressjs.svg" alt="ExpressJS" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img src="./docs/readme-resources/technologies/mongodb.svg" alt="MongoDB" height="30" /></a>&nbsp;&nbsp;
+<a href="https://mlab.com/"><img src="./docs/readme-resources/technologies/mlab.svg" alt="MLab" height="30" /></a>&nbsp;&nbsp;
 
 # License
 
