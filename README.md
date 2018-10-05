@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="display:block;text-align:center" src="./docs/readme-resources/Logo.png" alt="logo" width="100" />
+    <img style="display:block;text-align:center" src="./docs/readme-resources/safeplant-logo-only.png" alt="logo" width="100" />
     <br/>
     <h1 align="center">RESTful API</h1>
     <p align="center" style="font-size: 1.2rem;">The Restful API used for the SAFE PLANT analytics portal</p>
